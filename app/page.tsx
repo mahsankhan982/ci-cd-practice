@@ -2,7 +2,6 @@ export default function Home() {
   return (
     <main>
       <h1>My CI/CD Practice Project</h1>
-      <p>{undefinedVariable}</p>
       <h2>My First Successful CI Test!</h2>
       <p>
         My code is pushed to GitHub,
